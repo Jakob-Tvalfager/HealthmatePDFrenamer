@@ -18,7 +18,9 @@ Make github issue for language update as needed.
 
 # Run & output example
 ````
-python3 ./HealthmatePDFrenamer.py 
+python3 ~/Dokument/WithingsReports/HealthmatePDFrenamer.py
+````
+````
 Changed medical_report (1).pdf to 2024-11-14-to-2024-11-29 · Overview.pdf
 Changed medical_report (10).pdf to 2025-02-02-to-2025-02-17 · Overview.pdf
 Changed medical_report (11).pdf to 2024-11-21-to-2024-11-29 · Overview.pdf

@@ -13,6 +13,8 @@ Dependency
  
 Drop in a folder with pdfs. Run it.
 
+Made for personal use. Will revisit it in the future to remove the manual step.
+
 # Issues
 Make github issue for language update as needed.
 
